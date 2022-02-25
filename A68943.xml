@@ -1,0 +1,2766 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and lyuely historyke purtreatures of the vvoll Bible</title>
+            <title>Quadrins historiques de la Bible. English. 1553</title>
+            <author>Paradin, Claude, 16th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 108 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68943</idno>
+            <idno type="STC">STC 3043</idno>
+            <idno type="STC">ESTC S122225</idno>
+            <idno type="EEBO-CITATION">24269977</idno>
+            <idno type="OCLC">ocm 24269977</idno>
+            <idno type="VID">23106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 23106)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 494:11, 515:4, or 1848:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and lyuely historyke purtreatures of the vvoll Bible</title>
+                  <title>Quadrins historiques de la Bible. English. 1553</title>
+                  <author>Paradin, Claude, 16th cent.</author>
+                  <author>Salomon, Bernard, ca. 1506-ca. 1561.</author>
+                  <author>Derendel, Peter.</author>
+               </titleStmt>
+               <extent>[206] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By Iean of Tournes,</publisher>
+                  <pubPlace>At Lyons :</pubPlace>
+                  <date>M. D. LIII [1553]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse; one stanza with illustration per page.</note>
+                  <note>Translation (by Peter Derendel) of Claude Paradin's Quadrins historiques de la Bible, with illustrations by Bernard Salomon--Cf. STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>Signatures: A-N⁸ (last leaf blank).</note>
+                  <note>Formerly STC 6675 (at reel 494:11) and STC 19184 (at reel 515:4)--Cf. STC (2nd ed.).</note>
+                  <note>Reproductions of originals in the Henry E. Huntington Library and Art Gallery (reels 494, 515) and Harvard University. Library (reel 1848).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  History of Biblical events --  Poetry.</term>
+               <term>Bible --  Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:23106:1" rendition="simple:additions"/>
+            <p>The true and lyuely hiſto<g ref="char:EOLhyphen"/>RYKE PVRTREATVRES OF THE VVOLL BIBLE.</p>
+            <figure>
+               <head>QVOD TIBI FIERI NON VIS, ALTERI NE FACERIS</head>
+            </figure>
+            <p>AT LYONS, BY IEAN OF TOVRNES. M.D.LIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:23106:2"/>
+            <pb facs="tcp:23106:2"/>
+            <head>TO THE RIGTH <hi>WORSHIPF<g ref="char:V">Ʋ</g>LL AND</hi> moſt vvorthie, Maſter Pikeling, embaſſadour of the kinge of Englande, Peter derendel peace, and feli<g ref="char:EOLhyphen"/>citie.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Knowe, mi moſt diſ<g ref="char:EOLhyphen"/>cret and vertuous Ma<g ref="char:EOLhyphen"/>ſter, that ſome amonge other shall be fonde, rea<g ref="char:EOLhyphen"/>die to blame this wor<g ref="char:EOLhyphen"/>ke, bringinge for them, that no nede it was of ſuche purtreatures, ſith we haue at libertie the<g ref="char:EOLhyphen"/>ſelf ſtories, wherin we mai muche better knowe the pure truth reding the wholl, then to ſtaie at a thinge vncertaine and drawen at pleaſure: Some other shall be (knowe I well) wiche shall endeuer themſelues to ſai, that it is a thinge open<g ref="char:EOLhyphen"/>lie
+<pb facs="tcp:23106:3"/>forbiden be the lawe of God, and allthought the ſtrong and faithfull mai without ani danger be<g ref="char:EOLhyphen"/>holde them, vſing therof after their owne goode diſcretion, that neuertheleſſe, being ſen of the weake and ſimple, it mai be vnto them occaſion of fall: Other lickwiſe that, ſith the hearing aboue all our fiue naturall wittes moſt diuin is allone nedfull to ſaluation, wherwith we, as with an instrument mete, muſt take and receaue the pro<g ref="char:EOLhyphen"/>meſſes of God offred and preſented vnto vs in the holie ſcriptures, contenting ourſelues we shulde red them, with vnderſtanding therto required, and vndertake no further. To whome we, wil<g ref="char:EOLhyphen"/>ling moſt faine them ſatisfie, aunſwer: that, all be it the letter well vnderſtanded geueth plaine and perfette knowlege of the thinges, neuerbe<g ref="char:EOLhyphen"/>theleſſe the true and lyuelye purtreatures and repreſentations therof mai be, and (to ſai better) are good and profitable meanes, wherbe we mai shirtlie and with eaſe, kippe and graue in min<g ref="char:EOLhyphen"/>de the wholl meaning of it, wiche otherwiſe without often reding, and with muche werines
+<pb facs="tcp:23106:3"/>of witte might eaſilie be forgotten being vnto vs in ſtede of true, cleare, and manifeſt argumen<g ref="char:EOLhyphen"/>tes of the wholl ſubiect. For what a meane more shirt, ſure, and with no little pleaſure eaſie might ani man finde, to teache his childerne, and ſuche as are not ſen in the Bible withall, then to shewe them, the ſtories well drawen, and lyuely pourteated nothing laking therto, but all thinges therin ſette out entierelie, afterward declaring them hollie that, wiche thei repreſente? Or what greater a pleaſure, and recreation of minde might a ſtudious man haue, knowing all readie the ſto<g ref="char:EOLhyphen"/>ries, and being wel vſed, and ſen therin, the 2 to ſe preſentlie before his eies the thinges ſelf, wiche he had red to be paſſed longe before, the figure and the letter coming, and agreing ſo well, that thei ſeme properlie to be none other, but one ſelf thinge, diſagreing onlie in this, that the ſtorie telleth thinges all readie paſſed, the wiche the figure as calling backe to the preſent, sheweth plainlie with all euidencie to the eie. Nowe as for that wiche the other might ſai, that to drawe and pourtreate
+<pb facs="tcp:23106:4"/>is forbidden vnto vs be the lawe and commaun<g ref="char:EOLhyphen"/>dement of God, I graunt that, for to worship<g ref="char:EOLhyphen"/>pe it, if then the weacke and ſimple (as thei ſai) do fall, that is to be imputed to them, not the figures: ſith ſo muche lacke that thei bringe and prouocke to idolatrie, that rather thei tourne cleane awai frome it, putting befor the eies the ſore puniſshementes and paines, wherwith the childerne of Iſrael were puniſshed, when thei committed ſuche an abominable deed: As fore the reſte, thei mai ſe therin, but all exemples of good and holie liuing, that is to wite, howe god hath all waies ben readie to healpe, and beare fauour to ſuche as did walke rigthlie in his pa<g ref="char:EOLhyphen"/>thes and waies: contrariewiſe greuouslie to pu<g ref="char:EOLhyphen"/>niſshe them, wiche rebell vnto him wolde none other, but folow their owne will, and wicked minde: to be shirt thei mai lerne eurie where the<g ref="char:EOLhyphen"/>rin to flie, and eſchewe ſinne, and with good a<g ref="char:EOLhyphen"/>dreſſe to folowe vertu. As for the thirde, truth is that be the hearing nedes we muſt receaue the faith: iet neuertheleſſe in her degree the ſyght is
+<pb facs="tcp:23106:4"/>greatlie required, and nedfull, therwith to knowe Goddes glorie and magnificencie in his workes, co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſidered in the beginning he mad heauen and earth, with other viſible workes, acording our capacitie shewing, and manifeſting himſelf vnto vs, to the ende, that be this meane we might come to the knowlege of him, and ſeing plaine, that ſuche his workes were fare more then of man, might knowe lickewiſe that it behoued the worckman therof to be without ani compareſon mor excellent then anie man was. If therfore be the meanes of the eie we come to ſo a high and diuin knowlege, I can thinke non other, but that in this it be goode and profita<g ref="char:EOLhyphen"/>ble ſo that we will not abuſe therof, the wiche thinge might alſo happe of the hearing. For who colde let ani man, that shulde heare tell or red ſome ſtorie neuer ſo godlie or shulde tell or red it him<g ref="char:EOLhyphen"/>ſelf, to imagine ſome idolatrie in his minde? and that is liekwiſe againſt the lawe and commaun<g ref="char:EOLhyphen"/>dement of God, being not onlie exteriour, but alſo interiour. If theniwil ſo bringe and call backe thinges paſſed, red and heard in the trew, and
+<pb facs="tcp:23106:5"/>holie ſtories of the olde Testament, that the eie mai alſo enioie therof, of a truth the intention and minde, nor the ende alſo, mai be but good, and godlie. The wiche thinges with miſelf right well conſidered, I haue thought it mete to endeuer miſelf to tranſlate the argument of eche figure in Englishe meter, being lickewiſe putte in ſixe other languages, to the entent that the countre, wherin I had ben nourriſshed and brought vp, shulde in no wiſe remain bastard allone, his tonge kipping her place amonge other, readie to bring him licke comoditie. This therfor be me vndertaken and ended, kipping eurie wherlicke meaſure, the thirde perſon actiue of the Preſent, with the Aoriſte, lickewiſe the Participle paſsiue of the preterite at diſcretion, as comonlie in the ſpeache is vſed, the contractions alſo of the tonge obſerued, morouer in the Orthographye leauing y to the greke wordes, vſing of our owne, as I thought it mete and con<g ref="char:EOLhyphen"/>uentent, I being of the Frenshe nation, for mi ſauegarde and the workes, haue fonde none mo<g ref="char:EOLhyphen"/>re ſure, then iou mi vertuous maſter preſuppoſed
+<pb facs="tcp:23106:5"/>that ie borne in the countre, to the wiche naturallie am affectionat, are at this time Embaſſadour towarde the Kinge of mi naturall lande, douting no wiſe, but if iou will voucheſaue to take in bande to kippe it a litle and defende, vnder the bu<g ref="char:EOLhyphen"/>ckler of iour fauour, that without anie loſt, or dam<g ref="char:EOLunhyphen"/>age shall remaine woll, and harmeleſſe. For I knowe right well, that iour good iugement is in ſo great a reputation with eurie one, that wither<g ref="char:EOLhyphen"/>war die shall drawe, all without ani withſtan<g ref="char:EOLhyphen"/>ding will folowe iou. Truth is, that the worke is vnworthie to compeere before iour Maſter shippe, ſo muche laketh that iou ought to receaue it, ne<g ref="char:EOLhyphen"/>uerhethleſſe it shall plenſe iou, to looke a little vpon the good affection, and minde wherwith it is preſented: and ſo doing ie shall encorage me to geue meſelf herafter to that thinge, wiche, mai be, shall be better worth, to the ſeruice of iour Maſtershippe, whoſe lowlie and humble ſeruaunt I am, and shall be.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:23106:6"/>
+            <pb facs="tcp:23106:6"/>
+            <head>THE PRINTER TO THE READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE</hi> affection mine all waies towar<g ref="char:EOLhyphen"/>de the hartlie erneſt, louing reader, being co<g ref="char:cmbAbbrStroke">̄</g>tinuallie commaunded of the dutie of mi profeſsion, mai not but dailie go about to ſatisfie the in this, wiche thow deſireſt and lookeſt for in mi vacation, the wiche, to mai pleaſe the, I wolde it were to mi minde ſo f<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e acd licentiouſe ſtreched at large, as it is be the mishappe of the time reſtrained. Reſtrained it is trulie, not of it ſelf, but for the diuerſitie of the braines of this dai, ſome tender and delicat, the other to rude, and groſſe, and the laſt to ſtraunge<g ref="char:EOLhyphen"/>lie different frome them both, ſcrupulouſe, and ob<g ref="char:EOLhyphen"/>ſtinate: ſo that without danger, or ſcandale, i mai not delecte the with the ſame thinges wiche for the are more required, to the contentation of the part harder to be contended, as the mor tickeling, wiche is the ſprit. For whoſe delectation I mai
+<pb facs="tcp:23106:7"/>not but confeſſe, that the holie ſcripture is the chief of all the other. And becauſe that in this part, wiche therwith mai edifie vs, I mai not (as I ſaid) wel reioiſſe the, I did looke to pleaſe the with the other, that bringeth vp, whiche is the repreſentation of the holie Bible, to the ende that, if tow maieſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot enioi the letter ſo frelie, as thow woldeſt thiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, thow maieſt tapiſſe ſure the chambres of thi mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de and remembraunce with the figures therof, and mor honestlie, after vs, then thou doeſt the chan<g ref="char:EOLhyphen"/>bres, and halles of thi houſe with ethnike ſtores, thus euill becoming the faithfull. And when it were but for a witneſſe, and to bringe the to mn<g ref="char:EOLhyphen"/>de, that all the olde teſtament was but the image, and figure of this, wiche we holde, I haue wold faine figure it the here: to the entent alſo, that, hauing often befor thin eies, the ſtorie of the holie Patriarches liuing, tow maieſt ſo well conforme thine at their exemple, that it mai be to the fulfilling of goddes will, and thi ſaluation, So be it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:7"/>
+            <head>GENESIS I.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God the heauen mad in the beginning,</l>
+               <l>The earth and ſea withall in perfitnes,</l>
+               <l>The moone and ſonne in the skie bright shining,</l>
+               <l>Adam after mad to his one licknes.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:8"/>
+            <head>GENESIS II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>With liuing ghoaſt god mad Adam to liue,</l>
+               <l>Permitting him to maintain in his breath:</l>
+               <l>To eate of all except the frute of liue,</l>
+               <l>Wiche did forbid vnder the pain of death.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:8"/>
+            <head>GENESIS II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A heauie sleep <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Adam god did cast,</l>
+               <l>Then frome his ſid a ribbe of his plucking:</l>
+               <l>Therwith lightlie Eue his wif formed chast,</l>
+               <l>And befor him laied her at his waking.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:9"/>
+            <head>GENESIS III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>To Eue is come the ſerpent maliciouſe</l>
+               <l>Full quicke, and ſo right buſie about here,</l>
+               <l>Soon worcked, that (of their good enuiouſe)</l>
+               <l>The frute forbide thei eate both togethere.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:9"/>
+            <head>GENESIS III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>This frute anon their both eies cleare opened:</l>
+               <l>Wherfore a shame ſo to shew their nature,</l>
+               <l>A figgers leaues plucking nigh them ioined</l>
+               <l>To their bodies, making ſo couerture.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:10"/>
+            <head>GENESIS III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God then knowing ſuche crastie deception,</l>
+               <l>Adam called roughlie and ſore chidding:</l>
+               <l>His curſe them gaue and his malediction,</l>
+               <l>For dispiſing of his holie bidding.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:10"/>
+            <head>GENESIS III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God eche of them with a garment of skinne</l>
+               <l>Clothed, driueth out the faire place of pleaſure:</l>
+               <l>Then of the frute the waikipech Cherubin:</l>
+               <l>Wherfore with death purſued are anon ſure.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:11"/>
+            <head>GENESIS III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>With muche droping and sweat of his viſage,</l>
+               <l>Eateth Adam his bread new and moderne:</l>
+               <l>Eue in ſorow and care of her menage,</l>
+               <l>Geueth out great cries bringing fourth of childerne.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:11"/>
+            <head>GENESIS IIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Cain curſed firſt of mans blood sheder,</l>
+               <l>Therwith ſicking his one malediction,</l>
+               <l>Of enuie full ſmitting slaieth his brother:</l>
+               <l>Wherfore leeſeth all hope of redemption.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:12"/>
+            <head>GENESIS VI. &amp; VII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God the deluge to Noe doeth forſai<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Commaunding him the arche to builde and do:</l>
+               <l>Then to get in with his ſuche as doeth ſai:</l>
+               <l>For all mankinde with waters willeth vndo.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:12"/>
+            <head>GENESIS VII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of the skie ſcluſes let all their waters skippe,</l>
+               <l>And lift in aire the arche to the cloudes plain,</l>
+               <l>Fiue mothes and more on their waues do her kippe:</l>
+               <l>Then whence thei came thei go all ſtraight again.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:13"/>
+            <head>GENESIS VIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The arche cometh on Armenies the hill:</l>
+               <l>Perished is all trough the wholl worlde ronde,</l>
+               <l>Noe allone with his aliue resteth ſtill,</l>
+               <l>Wiche dead backward findeth euri thing ſterke dronde.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:13"/>
+            <head>GENESIS VIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A lande come down an altare buildeth to praie,</l>
+               <l>With pure cattell he maketh immolation:</l>
+               <l>God doeth promiſe that neuer of liue daie,</l>
+               <l>No man ſe shall ſuche other mondation.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:14"/>
+            <head>GENESIS IX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Sealing this peace god in the skie doeth laie,</l>
+               <l>The raine bowe his, and that token them giue:</l>
+               <l>Then all bliſsed forbideth them to slaie,</l>
+               <l>In ani wiſe no man that is aliue.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:14"/>
+            <head>GENESIS IX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Cham curſed is of Noe his father,</l>
+               <l>Wiche droncke leaueth him vncoured frowardlie:</l>
+               <l>Sem then ſorie with laphet his brother,</l>
+               <l>Couer him go ſtraight ther where he doeth lie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:15"/>
+            <head>GENESIS XI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Nembroth the ſtronge to make ſpeake of his name,</l>
+               <l>Babel the toure buildeth with greate eſtages:</l>
+               <l>But god breacking and diſsiping theſame,</l>
+               <l>Confounded all his men in their languages.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:15"/>
+            <head>GENESIS XII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Frome his countre Abraham doeth him part.</l>
+               <l>God bidding him with all felicitie,</l>
+               <l>To go awaie to Chanaan the part,</l>
+               <l>Wiche doeth promiſe to his poſteritie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:16"/>
+            <head>GENESIS XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Cattell and gooddes ſo muche Abraham haue,</l>
+               <l>And Loth alſo on the earth feeding there:</l>
+               <l>That ther sheepherdes do their beſt and do braue,</l>
+               <l>To make ſore warre amonge them togethere.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:16"/>
+            <head>GENESIS XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Wherfore leauing the place of Chanaan,</l>
+               <l>Loth be counſaill ſepareth him shirtlie:</l>
+               <l>With all his gooddes there leauing Abraham</l>
+               <l>Cometh to dwell in Sodome willinglie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:17"/>
+            <head>GENESIS XIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Melchiſedech the high prieſt and good kinge,</l>
+               <l>Breade wine bringeth him then his benediction:</l>
+               <l>Of the boties wiche Abraham doeth bringe,</l>
+               <l>To him he geueth the decimes in porcion.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:17"/>
+            <head>GENESIS XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Abraham then Agar without faintiſe</l>
+               <l>Knoweth in deed, be Saras owne counſaill:</l>
+               <l>Great that she is here mastreſſe doeth dispiſe:</l>
+               <l>Wherfor greate ſo muſt flie with muche trauaill.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:18"/>
+            <head>GENESIS XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God his Aungell within the wildernes</l>
+               <l>Sendeth, telling her go theſelf humilie</l>
+               <l>Agar before thi dame and good maſtres:</l>
+               <l>For thi childerne I will ſure multiplie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:18"/>
+            <head>GENESIS XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God Abraham plainlie doeth certifie,</l>
+               <l>To haue a ſonne with him great poſſeſsion:</l>
+               <l>To begette kinges in his owne progenie:</l>
+               <l>Then him commaundeth do the circonciſion.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:19"/>
+            <head>GENESIS XVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of Sodomis the thre Aungels forſai,</l>
+               <l>To Abraham the fearful euerſion:</l>
+               <l>For their ſtraunge vice he doeth vnto god prai:</l>
+               <l>Wherof he hath pitie nor compaſsion.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:19"/>
+            <head>GENESIS XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Sodomites, the Aungels to take ſtill,</l>
+               <l>The dore of loth will breake alſo down trowe:</l>
+               <l>But disloging with loth punishe their will,</l>
+               <l>And falſe deſire, cauſing them ouerthrowe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:20"/>
+            <head>GENESIS XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Aungels ſtraight led loth out of Sodome,</l>
+               <l>His wif alſo and daughters far of ſight</l>
+               <l>Of heauens fire that Sodomites conſomme:</l>
+               <l>Of ſalte lothes wif becommeth ſtatu bright.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:20"/>
+            <head>GENESIS XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Lothis daughters to ſaue his ſeed withall,</l>
+               <l>Within a holl mad him dronke purpoſedlie:</l>
+               <l>Wiche to his blood taking no heed atall,</l>
+               <l>With eche of them medleth moſt pleaſauntlie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:21"/>
+            <head>GENESIS XX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Abimelech willeth be force detain,</l>
+               <l>From Abraham his deare and weded wif:</l>
+               <l>But god him doeth to reſtore here again,</l>
+               <l>Threatning of him to ende the wicked lif.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:21"/>
+            <head>GENESIS XXI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Sara complaineth of Iſmael ſporting</l>
+               <l>With her deare ſonne Iſaac eurie daie:</l>
+               <l>But Abraham ſtrif and noiſe eſchewing,</l>
+               <l>Agar anon with her childe driueth awaie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:22"/>
+            <head>GENESIS XXI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Agar her ſonne, in the wilde wooddes weping</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nder a tre laieth, of thirſt willing die:</l>
+               <l>Godis Aungell of them the voice hearing,</l>
+               <l>Sheweth her a weall her childe to ſatisfie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:22"/>
+            <head>GENESIS XXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Abraham willeth for to pleaſe godes highnes,</l>
+               <l>Of his deare ſonne to make immolation:</l>
+               <l>But god knowing his wount true righteouſnes,</l>
+               <l>Maketh him to leaue ſuche an execution.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:23"/>
+            <head>GENESIS XXIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>In Hebrom lande Sara endeth her laſt dai:</l>
+               <l>Abraham paieth the ſepulcher trulie</l>
+               <l>To Ephron ionge wherin doeth her right lai</l>
+               <l>The good olde man mourning moſt bitterlie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:23"/>
+            <head>GENESIS XXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Here bucket faire vp Rebecca doeth holde,</l>
+               <l>The ſeruaunt drinketh therin all with his eaſe:</l>
+               <l>Rebecca then iet to water is bolde</l>
+               <l>His tene camels the better him to pleaſe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:24"/>
+            <head>GENESIS XXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>As in the filde Iſaac walketh loocking,</l>
+               <l>Cometh Rebecca frome Meſopotamie:</l>
+               <l>On his camels the ſeruaunt doeth her bringe,</l>
+               <l>Of Iſaac to be the wif ſemie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:24"/>
+            <head>GENESIS XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Full of longe daies the owne dette of nature</l>
+               <l>Paieth Abraham, and dieth veri swetlie:</l>
+               <l>His good childerne within the ſepulture</l>
+               <l>Nigh be Sara do laie him for to lie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:25"/>
+            <head>GENESIS XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of Rebecca ar borne all together</l>
+               <l>The twines mamed Eſau and Iacob:</l>
+               <l>The wicke holdeth be the foote his brother,</l>
+               <l>When thei brought fourth in haſt do waill and ſob.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:25"/>
+            <head>GENESIS XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Frome the filde cometh Eſau a honger,</l>
+               <l>And his brother Iacob ſelleth and maketh ſure,</l>
+               <l>For certain meat that he eateth a ſonder.</l>
+               <l>(Wherfore repenteth his) primogeniture.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:26"/>
+            <head>GENESIS XXVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>To Paleſtins Iſaac doeth him ſaie</l>
+               <l>His wines brother out of his owne nation:</l>
+               <l>Abimelech ſeing them both to plaie</l>
+               <l>Through a window, blameth the ſaid fiction.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:26"/>
+            <head>GENESIS XXVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iſaac doeth (whill the dearth is) remain</l>
+               <l>In Paleſtine, his flockes make good encreaſe:</l>
+               <l>Wherfore enuied Abimelech taket pain,</l>
+               <l>Stried his waters, to driue him out with eaſe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:27"/>
+            <head>GENESIS XXVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Abimelech of Iſaac hath minde,</l>
+               <l>Seing that god fauoureth him greatlie,</l>
+               <l>And peace with him with an othe he doeth binde,</l>
+               <l>Allthought he hath handled him moſt roughlie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:27"/>
+            <head>GENESIS XXVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Eſaü leeſeth his deare benediction,</l>
+               <l>Be Rebecca counſaill his owne mother:</l>
+               <l>Wiche doeth ſo well led the ſimulation,</l>
+               <l>That to Iacob doeth giue it his father.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:28"/>
+            <head>GENESIS XXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Alader ſeeth Iacob frome earth allone</l>
+               <l>Touching the skie, Aungels theron paſsing,</l>
+               <l>Slombring that whill the heade vpon à ſtone:</l>
+               <l>God then apeereth to him muche promiſing.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:28"/>
+            <head>GENESIS XXIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Rachel leading here sheepe to the water,</l>
+               <l>Iacob the weall doeth vncouer vpon</l>
+               <l>Then here kiſsing, and doeth ſo woorcke aſter.</l>
+               <l>That her he wedeth with her ſiſter anon.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:29"/>
+            <head>GENESIS XXX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Baren Rachel a longe time doeth remain:</l>
+               <l>Often therfor to Iacob maketh her mone:</l>
+               <l>But god mightie ſetteh her out of this pain,</l>
+               <l>For she bringeth fourth Ioſeph childe of her owne.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:29"/>
+            <head>GENESIS XXXI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iacob leauing Laban ſoon cometh awai,</l>
+               <l>Rachel ſoftlie her idole taketh with her:</l>
+               <l>Laban after goeth and cerche them that dai:</l>
+               <l>But findeth nothing wherfor kiſſeth them both ther.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:30"/>
+            <head>GENESIS XXXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Conſidering their auncient ſtrif and olde,</l>
+               <l>Iacob ſeing Eſau in doute cometh,</l>
+               <l>Aſſuring him the Aurgell with him bolde,</l>
+               <l>Wreſtleth plain, wherfor crepell becometh.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:30"/>
+            <head>GENESIS XXXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>But of Iacob the childerne it permitte</l>
+               <l>Will not Sichem witout circonciſion,</l>
+               <l>And without doute their father do promitte,</l>
+               <l>To fulfill it for their laſt concluſion.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:31"/>
+            <head>GENESIS XXXVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ioſeph the childe to his brother doeth tell</l>
+               <l>All the dreames his, wherfor thei without reſt</l>
+               <l>Enuious are, and to ſe him do swell,</l>
+               <l>Of their father knowing him loued beſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:31"/>
+            <head>GENESIS XXXVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ruben telleth them that he willeth not defill</l>
+               <l>Handes, with the bloode of non of his bretherne:</l>
+               <l>But if it pleaſeth, that his clothes taket hei will,</l>
+               <l>And ſo caſt him into the olde ciſterne.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:32"/>
+            <head>GENESIS XXXVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>To slaie him quite Iudas doeth not conſent,</l>
+               <l>But to ſell him to marchauntes willeth obei:</l>
+               <l>To whome paſsing that wai thei all content</l>
+               <l>Do ſell him ſtraight, for good readie monei.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <head>GENESIS XXXVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iacob ſeing ſent to him frome the filde,</l>
+               <l>Of his deare ſonne ſo beraied the garment:</l>
+               <l>Thinking to be, with ſome of the beaſtes wilde,</l>
+               <l>All deuoored, ſore doeth mourne and lament.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:33"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iudas awai goeth ſe his sheepe to sheare,</l>
+               <l>Thamar knoweth it, wiche him deceaue wolde ſor,</l>
+               <l>Diſguiſing her, faire clothes on her doeth weare,</l>
+               <l>And leaueth mourning then goeth him tarie for.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:33"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iudas mad her of a fate kidde promes</l>
+               <l>To lie with her, and of him gage she hilde:</l>
+               <l>Then of Phares vnknowen the crastines,</l>
+               <l>And of Zaram, in wai gate her with childe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:34"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of all his flocke a faire fate kidde milking</l>
+               <l>Bindeth Iudas, and to her doeth it ſende,</l>
+               <l>His man finde her iet in the filde thinking:</l>
+               <l>But fonde is not ther about at the ende.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:34"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>For to burne her Iudas did purſue on</l>
+               <l>After Thamar, knowing her ſure with childe:</l>
+               <l>Then is forced ſtraight to leaue her allone:</l>
+               <l>When she shewing the gage plain he behilde.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:35"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iudas awai goeth ſe his sheepe to sheare,</l>
+               <l>Thamar knoweth it, wiche him deceaue wolde ſor,</l>
+               <l>Diſguiſing her, faire clothes on her doeth weare,</l>
+               <l>And leaueth mourning then goeth him tarie for.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:35"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iudas mad her of a fate kidde promes</l>
+               <l>To lie with her, and of him gage she hilde:</l>
+               <l>Then of Phares vnknowen the crastines,</l>
+               <l>And of Zaram, in wai gate her with childe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:36"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of all his flocke a faire fate kidde milking</l>
+               <l>Bindeth Iudas, and to her doeth it ſende,</l>
+               <l>His man finde her iet in the filde thinking:</l>
+               <l>But fonde is not ther about at the ende.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:36"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>For to burne her Iudas did purſue on</l>
+               <l>After Thamar, knowing her ſure with childe:</l>
+               <l>Then is forced ſtraight to leaue her allone:</l>
+               <l>When she shewing the gage plain he behilde.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:37"/>
+            <head>GENESIS XXXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Be the marchauntes in to Egypte is brought</l>
+               <l>The good Ioſeph, detaïned be enuie:</l>
+               <l>Wiche for monei of Phutifar is bought,</l>
+               <l>Of Pharaon chief of gendarmerie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:37"/>
+            <head>GENESIS XXXIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Be his chaſt clocke his maſtres doeth him draw</l>
+               <l>To laie with him, Ioſeph willeth not conſent:</l>
+               <l>Wherfore criing ſaied, when ſo faſt him ſaw,</l>
+               <l>Ioſeph it was, that with force take her ment.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:38"/>
+            <head>GENESIS XXXIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Wherfore (harde of Phutifar, this ſaiing</l>
+               <l>That she maintaineth in liing veritable)</l>
+               <l>All in a rage of reſt taketh nothing,</l>
+               <l>Till that he be priſonner miſerable.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:38"/>
+            <head>GENESIS XL.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Tow priſonners their dreames all did declare:</l>
+               <l>The meaning told Ioſeph as came to pas,</l>
+               <l>Within thre daies that the geollers of care</l>
+               <l>Deliured one, the other hanged was.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:39"/>
+            <head>GENESIS XLI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Pharaon willeth, that is dreame be exponde:</l>
+               <l>The ſouthſaiers and augures of his lande</l>
+               <l>Holde all peace, none that can ſpeake is fonde:</l>
+               <l>Ioſeph therfor frome priſon thei demande.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:39"/>
+            <head>GENESIS XLI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ioſeph declare doeth the darcke dreames ſo right</l>
+               <l>Of Pharaon, that with his deliuring,</l>
+               <l>Of this riche kinge, is then fonde in the ſight</l>
+               <l>Woorthie, to haue of Egypte the ruling.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:40"/>
+            <head>GENESIS XLI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of all iowels Pharaon abonding,</l>
+               <l>To be clothed Ioſeph cauſeth and araied,</l>
+               <l>Him of the worlde ſauiour be name calling,</l>
+               <l>Maketh him of his to be woorshipped and praied.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:40"/>
+            <head>GENESIS XLI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>To ſeuen ieres of honger to pouruai,</l>
+               <l>Ioſeph hauing of god the prouidence,</l>
+               <l>Plentie of wheat, and meal apart doeth lai,</l>
+               <l>In ſeuen ieres that be of abondance.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:41"/>
+            <head>GENESIS XLI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Be Pharaon Ioſeph is in mariage:</l>
+               <l>Tow childerne faire he hath anon aſter,</l>
+               <l>One Manaſſes, in the floore of his aage,</l>
+               <l>Then Ephraim, wiche folowed the other,</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:41"/>
+            <head>GENESIS XLII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Thei do finde in putting out their forment,</l>
+               <l>All their monei, wherfor their feare is more:</l>
+               <l>For good Ioſeph Iacob is in tourment,</l>
+               <l>For Simeon, and Beniamin mourneth ſore.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:42"/>
+            <head>GENESIS XLIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ioſeph doeth them the ſteward recomaunde,</l>
+               <l>When Beniamin beholdeth befor his eiene:</l>
+               <l>Of a banquet then the meate doeth comaunde,</l>
+               <l>For at none dai he willeth with them dine.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:42"/>
+            <head>GENESIS XLIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Within their ſackes, Ioſeph iet ones again,</l>
+               <l>All their ſiluer and monei cauſeth to laie:</l>
+               <l>Within theſame of Beniamin biddeth plain</l>
+               <l>His great cup ſette, and then ſendeth them awai.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:43"/>
+            <head>GENESIS XLV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Beniamins necke about both armes doeth reche,</l>
+               <l>And kiſſeth them all with a loue amiable,</l>
+               <l>On them weping, recouer doeth the ſpeache:</l>
+               <l>Then Pharaon maketh ioie vneſtimable.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:43"/>
+            <head>GENESIS XLVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Egiptiens citizens with other,</l>
+               <l>Sell their gooddes all to Ioſeph, and knowlege,</l>
+               <l>Some corne to haue, but the prieſtes aſonder</l>
+               <l>Do kippe all theirs, be kinglie priuilege.</l>
+            </lg>
+            <pb facs="tcp:23106:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:23106:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:23106:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:23106:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:46"/>
+            <head>GENESIS XLIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>His towelue childerne Ioſeph mad all there come:</l>
+               <l>Then to them all gaue his precious bliſsing,</l>
+               <l>Readie to die, and all their time to come</l>
+               <l>Did them reuele, be high prophetiſing.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:46"/>
+            <head>GENESIS L.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Now his father Ioſeph bringeth to Ebron,</l>
+               <l>The wiche is dead, for to burie him ther:</l>
+               <l>Iacob liuing had praied ſo to be don,</l>
+               <l>The good olde man, and therto mad him ſwear.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:47"/>
+            <head>GENESIS L.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of Pharaon in the territorie</l>
+               <l>Iacob childerne fare abroad there do dwell:</l>
+               <l>Dead in Egipte Ioſeph all thei burie</l>
+               <l>Well imbaumed, in a little cornell.</l>
+            </lg>
+            <trailer>ENDE.</trailer>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:47"/>
+            <head>EXODI I.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A new kinge then, Ioſeph no wiſe knowing,</l>
+               <l>Iſrael all did ſore vexe, and tourment,</l>
+               <l>Therwith shirtlie them all vndo thinking:</l>
+               <l>But them he mad mor encreaſe, and augment.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:48"/>
+            <head>EXODI I.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Wherfor for ſpitte he comaundeth all midwiues,</l>
+               <l>All put to death childerne male, that are borne:</l>
+               <l>But fearing god theſe piteable, and good wiues</l>
+               <l>Leſt them aliue, and slain to be them ſworne.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:48"/>
+            <head>EXODI I.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Pharaon then comaundeth then to be drond</l>
+               <l>Shirtlie with ſpeede, full of vnpaciencie:</l>
+               <l>All the folke then, that teares to poore is fond,</l>
+               <l>Goeth to drond them, in their innocencie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:49"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes mother of him then a bed brought,</l>
+               <l>His deare father a whill him kept and hidde</l>
+               <l>For his beautie, then him ruſshes among ſought</l>
+               <l>In water lai, to do as the king bidde.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:49"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The kinges daughter fonde him in great pitie</l>
+               <l>The ruſshes amonge, wiche to him fauourable,</l>
+               <l>As god did pleaſe, him to ſaue thought worthie,</l>
+               <l>His owne mother giuing him for nource able.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:50"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A brother his Moſes ſeeth outraged,</l>
+               <l>Be maliciouſe an Egiptien damnable:</l>
+               <l>This wronge ſeen, is ſo well auenged,</l>
+               <l>That wond to death, he hideth him in ſable.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:50"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of the Hebreus tow chidding moſt roughlie,</l>
+               <l>Moſes cometh them to rebucke, and take:</l>
+               <l>One outrageous telleth him ſtubburlie,</l>
+               <l>Willt thou slaughter mor on me vndertake?</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:51"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Pharaon biddeth to ſeeke as manslaughter</l>
+               <l>Moſes abroad, ſtraight to him kill, and slaie:</l>
+               <l>But god willeth that he leaueth that quarter,</l>
+               <l>The kinges furie better eſchew to maie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:51"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Their beastes coming at the weall to water</l>
+               <l>Daughters ſeuen, of Madian the prieſt,</l>
+               <l>Of the sheepheardes Moſes was the master,</l>
+               <l>To will greue them, refrening all their liſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:52"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ietro after be his daughter him fette</l>
+               <l>Sent to that place, ſeing the perſonage,</l>
+               <l>Receaueth of him the promes with ioie greate,</l>
+               <l>To giue to him, his daughter in mariage.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:52"/>
+            <head>EXODI II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Dead Pharaon, Iſrael doeth him mourne,</l>
+               <l>Euen as wonded, with extreme affliction:</l>
+               <l>His voice of god is hard plain at that turne,</l>
+               <l>Wiche for his paines had great a compaſsion.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:53"/>
+            <head>EXODI III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God to Moſes sheweth him in Oreb mount</l>
+               <l>Ther in a shroobe, as flamme that doeth ſtrenght lacke:</l>
+               <l>Wiche coming nigh the holie place as wont,</l>
+               <l>The shoes on feet, god maketh him to go backe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:53"/>
+            <head>EXODI III. &amp; IIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes is mad of Iſrael captain,</l>
+               <l>Be his handes god willeth his workes shew ſtraunge,</l>
+               <l>Promiſing him be his might high, and plain,</l>
+               <l>To an ader his rod at will to chaunge.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:54"/>
+            <head>EXODI IIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Aaron cometh ſpeake in the wildernes,</l>
+               <l>As god willeth, to Moſes his brother:</l>
+               <l>Wiche bliſsing him biddeth him in readines,</l>
+               <l>To Pharaon go tell all together.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:54"/>
+            <head>EXODI IIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>With tokens thre thei shewed manifeſt,</l>
+               <l>Of Iſrael that god them thither ſent,</l>
+               <l>To bringe them out, ſeing them worthie beſt:</l>
+               <l>Iſrael all thanketh god to ſerue him bent.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:55"/>
+            <head>EXODI V.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>For Iſrael of his paines to ſoulage</l>
+               <l>Cometh Aaron, with his brother Moſes,</l>
+               <l>Deſire the kinge, not ſo greue them nor charge:</l>
+               <l>But mor for this the people doeth oppres.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:55"/>
+            <head>EXODI VII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Aaron laieth before this wicked kinge</l>
+               <l>This his rod down, wiche chaungeth to ader:</l>
+               <l>Theſame alſo be inchaunters making:</l>
+               <l>But deuooring the firſt killeth the other.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:56"/>
+            <head>EXODI VIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Neuertheleſſe Pharaon burſteth for ſpitte:</l>
+               <l>God knowing then that other willeth not do,</l>
+               <l>Maketh ſpringe out manie frogges in Egipte,</l>
+               <l>To infeſt ther, the meate and drincke vnto.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:56"/>
+            <head>EXODI VIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>So forced then doeth permitte ſacrifice</l>
+               <l>To Iſrael, ceſsing him do wronge:</l>
+               <l>Moſes readie apeaſing the iustice</l>
+               <l>Of god mightie, maketh die the vermine ſpronge.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:57"/>
+            <head>EXODI VIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Euen as befor he sheweth them naughtie face,</l>
+               <l>Swelleth with wrath, taketh his falſe obiectes:</l>
+               <l>God chaungeth the duſt to dogges flies in that place,</l>
+               <l>Wiche do pricke kim, beaſtes, alſo his ſubiectes.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:57"/>
+            <head>EXODI IX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>He doeth repent, and falſeth his promes,</l>
+               <l>Euen as befor goddes people doeth moleſte:</l>
+               <l>God cauſeth die, to refrain his hardnes,</l>
+               <l>Beaſtes eurie one, in his countre with peſte.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:58"/>
+            <head>EXODI IX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>This heauie ſtrocke ſoſtned his ſtubburne hart,</l>
+               <l>Cauſed him know God, shewing himſelf a fear:</l>
+               <l>Moſes maketh ceſſe tempesting eurie part,</l>
+               <l>Apeaſing god wiche is for in anger.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:58"/>
+            <head>EXODI X.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Pharaon then doeth himſelf humilie,</l>
+               <l>Finding at taſt to bitter his owne ſinne:</l>
+               <l>The armes in aire Moſes god praieth humblie,</l>
+               <l>The graſshoppers to driue the red ſea in.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:59"/>
+            <head>EXODI X.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <g ref="char:V">Ʋ</g>ſing allwaies theſe his aunſwers terrible</l>
+               <l>Pharaon, ſo the lord God doeth prouocke,</l>
+               <l>That in his lande a darcknes moſt horrible</l>
+               <l>Is be thre daies, all troubling without mocke.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:59"/>
+            <head>EXODI XII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Nowe Iſrael eateth the lambe ſpotles,</l>
+               <l>As god therof hath mad the ordonnaunce:</l>
+               <l>Wiche the paſſage willeth ſo be knowen doutles,</l>
+               <l>In wiche he tooke of Egiptiens vengeaunce.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:60"/>
+            <head>EXODI XII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>All the firſt borne of man, both and of beſt</l>
+               <l>Goddis aungell killeth quite out of hande,</l>
+               <l>For the ſore ſinnes of the kinge manifeſt:</l>
+               <l>Wherfor crieth out all the people of his lande,</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:60"/>
+            <head>EXODI XII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Egiptiens leaue vnderfull richeſse</l>
+               <l>To Iſrael, frome Egipte him ſending:</l>
+               <l>God maketh it bringe with them be crastineſse,</l>
+               <l>Of that ſpoilling them, for their deſeruing.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:61"/>
+            <head>EXODI XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes to God firſt borne doeth ſanctifie:</l>
+               <l>Wherfor with beaſtes maketh immolation,</l>
+               <l>Wiche doeth redeme mans blood, and purifie,</l>
+               <l>Receauing death, be their decollation.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:61"/>
+            <head>EXODI XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Marching be dai, God for their good adreſſe</l>
+               <l>Them of a cloude a colonne ſendeth awai,</l>
+               <l>Wiche guideth them ſtill in the wildernes,</l>
+               <l>Coing befor in aire be eurie wai.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:62"/>
+            <head>EXODI XIIII. &amp; XV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Egiptiens with death are apeaſed,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon the banckes of the red ſea ar laied:</l>
+               <l>Of Iſrael the childerne ar pleaſed:</l>
+               <l>Then praiſing god, a faire cantique is ſaied.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:62"/>
+            <head>EXODI XV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Marie Moſes, and Aaron ſiſter</l>
+               <l>With a tabrette, beginneth allone to plait</l>
+               <l>Wemen ſinging folow her glad after,</l>
+               <l>For together their god to praiſe, and prai.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:63"/>
+            <head>EXODI XV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iſrael maieth nomor forbeare the thirſte,</l>
+               <l>In ſur deſert the water is bitter:</l>
+               <l>Their ſodainlie beginneth to murmur firſt:</l>
+               <l>Moſes tourneth it then to swetnes after.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:63"/>
+            <head>EXODI XV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>In Helim place moſt pleaſaunt to the eie,</l>
+               <l>Findeth Iſrael twelue faire, and good fountaines</l>
+               <l>To him pleaſing, with palmes ſeuentie,</l>
+               <l>Campeth him ſelf ther, to forgette his paines.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:64"/>
+            <head>EXODI XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iſrael meate in Sin hongrie doeth lacke.</l>
+               <l>Aaron ther, and Moſes doeth diſpitte,</l>
+               <l>Saiing leauer to haue be remained backe</l>
+               <l>With Egiptiens, and haue died in Egipte.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:64"/>
+            <head>EXODI XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God at the nede neuer forgetting his,</l>
+               <l>Cauſeth him flie of fat quailles a great ſight,</l>
+               <l>For to shew him that of gooddes the ſpring is,</l>
+               <l>And in the campe lodges and tentes down to light.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:65"/>
+            <head>EXODI XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The mightie God of his people louing,</l>
+               <l>Be fortie ieres frome the skie mad to rain</l>
+               <l>Manne, of the taſt of honnie ſauouring,</l>
+               <l>Floore of forment, mad as coriander plain.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:65"/>
+            <head>EXODI XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>It pleaſeth God his manne ordinarie,</l>
+               <l>A dai onlie to Iſrael to laſt:</l>
+               <l>Wiche keping it tow, to the contrarie,</l>
+               <l>Findeth it in woormes, and ſtinche wiche thei muſt caſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:66"/>
+            <head>EXODI XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Halowed is of god the creatour</l>
+               <l>The ſeuenth dai, in the wiche he did reſt:</l>
+               <l>Of his bidding the people zelatour,</l>
+               <l>Sabbatizing doeth no woorck man, nor beſt,</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:66"/>
+            <head>EXODI XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Aaron laieth the manne in tabernacle,</l>
+               <l>For to be shewed to the poſteritie:</l>
+               <l>That thei maiſe how their god be miracle,</l>
+               <l>Fed Iſrael in a deſert hongrie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:67"/>
+            <head>EXODI XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>In Raphidim no water maieth be fonde:</l>
+               <l>Moſes feareth leſſe to death be ſtoned:</l>
+               <l>The god of healde biddeth him ſtrike the rocke ſonde,</l>
+               <l>Wiche muche water pooreth well ſeaſoned.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:67"/>
+            <head>EXODI XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>To Iſrael Amalech warre doeth make,</l>
+               <l>Thinking his campe with armes all to vndo:</l>
+               <l>The swerd in hand Ioſue putteth him backe,</l>
+               <l>Moſes the handes lifting the aire vnto.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:68"/>
+            <head>EXODI XVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ietro cometh ſe Moſes in wildernes,</l>
+               <l>Wiche receaueth him as well he doeth deſerue:</l>
+               <l>Of Pharaon then telleth the wickednes,</l>
+               <l>And the tourment, wherwith he did them ſerue.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:68"/>
+            <head>EXODI XVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes the cauſes of the people doeth heare,</l>
+               <l>Ietro ſeeth well, that he taketh to muche paines:</l>
+               <l>He cauſeth make that healpe to him thei beare,</l>
+               <l>Good and faithfull Iudges, with righteous captains.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:69"/>
+            <head>EXODI XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>All Iſrael campeth himſelf in the plain</l>
+               <l>Nigh be Sina, whence he willeth go awai:</l>
+               <l>Moſes allone goeth vp to the mountain,</l>
+               <l>For to his god, wiche calleth him ſpeake, and prai.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:69"/>
+            <head>EXODI XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God willeth that his peopell vnderſtande:</l>
+               <l>Moſes cometh then him to ſanctifie,</l>
+               <l>That be this meane againſt death he maieth ſtande.</l>
+               <l>And his garmentes cauſeth him purifie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:70"/>
+            <head>EXODI XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The ſmocking hill the greate trompette did blaw:</l>
+               <l>The people hard the voice of god in fire,</l>
+               <l>Wiche with great noiſe to Moſes geueth his law,</l>
+               <l>Wherin sheweth him his zeale, and good deſire.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:70"/>
+            <head>EXODI XXXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>On God liuing Iſrael doeth not paſſe,</l>
+               <l>Seing Moſes long in the mount remain:</l>
+               <l>Maketh in Oreb caſt a calf in a maſſe,</l>
+               <l>Then as his god doeth him prai and retain.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:71"/>
+            <head>EXODI XXXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Befor this calfe is offring immoled</l>
+               <l>Be Iſrael, that his god doeth forgette:</l>
+               <l>And ſo his faith moſt holie violed,</l>
+               <l>Lightlie ſinning be idolatrie greate.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:71"/>
+            <head>EXODI XXXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Being therfor nomor of god mindfull,</l>
+               <l>His wholl minde is therto ſette, that he muſt</l>
+               <l>Eate ſtill, and danſe, for his bodie ſinfull,</l>
+               <l>Far frome his god, willeth liue at his luſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:72"/>
+            <head>EXODI XXXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes doeth ſe Iſrael him ſelf marre,</l>
+               <l>And to his god wickedlie do wronge:</l>
+               <l>Wherfore angrie, the tables breaketh with great care</l>
+               <l>Of his ſwet lawes, wiche firſt in his hart ſpronge.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:72"/>
+            <head>EXODI XXXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The calfe hath mad to burne anon after:</l>
+               <l>To Iſrael childerne gaue it to drincke,</l>
+               <l>Pulueriſed, diſſolued in water,</l>
+               <l>That of their ſinne the taſt might deper ſincke.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:73"/>
+            <head>EXODI XXXII. &amp; XXXIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God speacketh roughlie againſt Iſrael all,</l>
+               <l>Moſes therof is in heauie tourmentes:</l>
+               <l>Iſrael then doeth weping prai, and call,</l>
+               <l>And clothe himſelfe, with his mourning garmentes.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:73"/>
+            <head>EXODI XXXIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes him ſelfe putteth in the tabernacle:</l>
+               <l>God ſpeaketh to him in a colonne firie:</l>
+               <l>The people then shamefaſt at the oracle,</l>
+               <l>Doeth him woorshippe, ſeing the miſterie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:74"/>
+            <head>EXODI XXXIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Allmightie god befor Moſes doeth paſſe</l>
+               <l>Putteth his hand, on his eies and viſage:</l>
+               <l>Shewing therbe that no man ſeeth his face,</l>
+               <l>But that of death paſſe he muſt the paſſage.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:74"/>
+            <head>EXODI XXXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>With God Moſes faſting endeth without pain</l>
+               <l>Of nightes fortie, and fortie daies euer.</l>
+               <l>The holie law is in tables putted again,</l>
+               <l>The wiche with feare thei muſt kippe, and reuere.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:75"/>
+            <head>EXODI XXXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes cometh frome Sinai the mount,</l>
+               <l>The princes are come ſe him at his coming:</l>
+               <l>Aaron is with them wondring not wount,</l>
+               <l>To ſe frome fare his face with hornes shining.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:75"/>
+            <head>EXODI XXXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Speaking to them this godlie perſonage,</l>
+               <l>Seing thei haue lacke of ſtrenght in their eies,</l>
+               <l>For to ſe him, doeth couer his viſage,</l>
+               <l>That ſo thei mai better heare the wordes his.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:76"/>
+            <head>EXODI XXXVI. &amp; XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>It is ended with all fine browderie,</l>
+               <l>On great pillers with art well meaſured:</l>
+               <l>At hoopes of golde hangeth the tapiſſerie,</l>
+               <l>With golden woorcke all the pieces figured.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:76"/>
+            <head>EXODI XXXVII. &amp; XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The praiing place is as god hath bidded:</l>
+               <l>Towe Cherubins of an worke excellent,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nder the arche with a riche crowne girded,</l>
+               <l>To laie therin the lawes of teſtament.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:77"/>
+            <head>EXODI XXXVII. &amp; XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of the ſame are all the vaſes, and the table</l>
+               <l>Wherin the bread is of propoſition:</l>
+               <l>Euen ſo as god of the worcke admirable,</l>
+               <l>Frome point to point mad clear declaration.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:77"/>
+            <head>EXODI XXXVII. &amp; XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The candellſtycke of pure golde is hanged,</l>
+               <l>Ther for to light in the ſanctuarie,</l>
+               <l>Wiche with fiue braunches to their riche ſtocke ioned,</l>
+               <l>Seuen tapers holde for luminarie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:78"/>
+            <head>EXODI XXXVII. &amp; XXX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>An altar mad (coured with golde) four ſquarre,</l>
+               <l>Towiſe mor high kiping good proportion:</l>
+               <l>Allwaies ſmocking vpon ſwete perfumes are,</l>
+               <l>Wherof god maketh the right compoſition.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:78"/>
+            <head>EXODI XXXVIII. &amp; XXVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The altar then is mad of ſacrifice,</l>
+               <l>With braſſe coured, in pieces thinne and ſmall:</l>
+               <l>All instrumentes to that meete, and propice,</l>
+               <l>As pottes, gredirons, brandirons, caudrons withall.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:79"/>
+            <head>EXODI XXXIX. &amp; XXVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of Aaron the garment the high prieſt</l>
+               <l>Is finiſshed, acording goddes bidding:</l>
+               <l>And ſo well mad that non fairer mai liſt,</l>
+               <l>For to shewe plain, that it is goddes finding.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:79"/>
+            <head>EXODI XL.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes maketh the holie hallowing,</l>
+               <l>With all deacking of the Sanctuarie:</l>
+               <l>With oile maketh the godlie anointing,</l>
+               <l>For goddes bidding it is ordinarie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:80"/>
+            <head>EXODI XL.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Being ended of the Sanctuarie</l>
+               <l>The worcke, then ther goddis highnes doeth light</l>
+               <l>In ronde about, and aboue doeth tarie</l>
+               <l>Be dai couring it, a cloude faire in ſight,</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:80"/>
+            <head>EXODI XL.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ended the dai, anon it doeth become</l>
+               <l>In shining fire, and a light moſt goodlie:</l>
+               <l>Wiche miſsing not euen as the night is come,</l>
+               <l>Burning ſparcleth, about the place holie,</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:81"/>
+            <head>EXODI XL.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>When Iſrael ſeeth the cloude awai moue,</l>
+               <l>And that leauing the holie place doeth part:</l>
+               <l>Sodainlie thence doeth vncampe and remoue,</l>
+               <l>And folowe it, wether it goeth the part.</l>
+            </lg>
+            <trailer>ENDE.</trailer>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:81"/>
+            <head>LEVITICI IX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A fyre coming from god and skie aboue,</l>
+               <l>The ſacrifice vtterlie doeth deuoore:</l>
+               <l>Iſrael this ſeing falleth down with loue</l>
+               <l>Praiſeth his god, and woorshippeth at that hoore.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:82"/>
+            <head>LEVITICI X.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Nadab with him Abiu a fire ſtraunge,</l>
+               <l>To the lorde god againſt his will do offer:</l>
+               <l>Wherfor angrie doeth ield them both their chaunge:</l>
+               <l>For painfull death with heauens fire do ſuffer</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:82"/>
+            <head>LEVITICI X.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Their both bodies dead (moſt fearfull ſpestacle)</l>
+               <l>Moſes cauſeth be men in readines</l>
+               <l>To be caſt out, fare frome the tabernacle,</l>
+               <l>For ſo to be an exempell ſport les.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:83"/>
+            <head>LEVITICI XXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Moſes cauſeth to be ſtoned a ionge man,</l>
+               <l>With falſe witneſſe proued a blasphemer:</l>
+               <l>Fare from their camp the people to him ranne,</l>
+               <l>To kippe the law of their deare redemer.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:83"/>
+            <head>DEVTERON. XXXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>God sheweth then the good prophete Moſes,</l>
+               <l>Fortelling him of his liue the paſſage,</l>
+               <l>All the cornels of the lande be promes:</l>
+               <l>Wiche he doeth ſe frome Nebo mount at large.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:84"/>
+            <head>IVDICVM III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>For Iſrael to put in his fredome,</l>
+               <l>Eioth Eglon slaied, king full of richeſſe:</l>
+               <l>Be this Moab the burden in his rome</l>
+               <l>Of Iſrael bearing, doeth him oppreſſe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:84"/>
+            <head>IVDICVM IIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Towentie ieres wholl Siſure prouoker ſtoute,</l>
+               <l>Sor Iſrael did purſue, and aſſaill:</l>
+               <l>But him hydding ones not ſure, and in doute,</l>
+               <l>Iahel his head came to perce with a naill.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:85"/>
+            <head>IVDICVM VII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>When Gedeon behilde throw the waters,</l>
+               <l>Thre hundred full of his men to be drond,</l>
+               <l>In their handes laid trompettes, both and tapers:</l>
+               <l>So victorie on his enmies he fond.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:85"/>
+            <head>IVDICVM IX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Hauing killed his bretherne on a ſtone,</l>
+               <l>Abimelech was forced ielde the ghoaſt:</l>
+               <l>For beſieging with ſor warre Thebes, anon</l>
+               <l>A ſtrocke he had, of a woman with loſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:86"/>
+            <head>IVDICVM XV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Be Sanſon ſtronge at ſome foxes tailles wer tied</l>
+               <l>Fagettes burning, wherof troubled did ſtarre</l>
+               <l>The Phijistins, left awai go vntied</l>
+               <l>Be ſuche a meane, that all corne thei did marre.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:86"/>
+            <head>IVDICVM XV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A thouſande men with a chickebone did kill</l>
+               <l>Of a dead aſſe Sanſon, wiche frome theſame</l>
+               <l>Seeth spring water, wherof he drinketh his fill,</l>
+               <l>When to his helpe god calleth him, and his name.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:87"/>
+            <head>RVTH II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of Booz wheat Ruth began to gather,</l>
+               <l>And nigh to him is she ſo bolde to come:</l>
+               <l>The good Booz vittals bidde to giue her:</l>
+               <l>Then she ſo wife, willeth his wif become.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:87"/>
+            <head>I. REGVM XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The wicked ſprit entring in the bodie</l>
+               <l>Of kinge Saül, for ſor him to tourment:</l>
+               <l>Dauid plaing, with swete a melodie</l>
+               <l>Diuinlie mad him awai to abſent.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:88"/>
+            <head>I. REGVM XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Micol Dauid to be killed fearing,</l>
+               <l>Faineth ſicknes a bed kepe him, and binde:</l>
+               <l>Then an image all hearie ther laing,</l>
+               <l>Thinketh to chaunge of the king the ſame minde.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:88"/>
+            <head>I. REGVM XXIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Dauid willeth not, auenge him of his kinge,</l>
+               <l>Allthought it laieth in his power vtterlie:</l>
+               <l>Onlie on him the great daunger hanging,</l>
+               <l>Of him in care, sheweth him faithfullie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:89"/>
+            <head>I. REGVM XXXI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Saül ſeing his thre childerne beslain,</l>
+               <l>His warriars all, and the bataill be loſt,</l>
+               <l>Being wonded, feareth priſonner remain:</l>
+               <l>Wherfor his lif, with his hande did him coſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:89"/>
+            <head>II. REGVM XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ammon forced Thamar his one ſiſter:</l>
+               <l>Abſalon then, for the ded deteſtable</l>
+               <l>Mad a banquet, wher he coming after,</l>
+               <l>Was ther then slaied, of his men, at his table.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:90"/>
+            <head>II. REGVM XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of treaſon sheweth the falſe talking coured</l>
+               <l>Achitophel, that Dauid innocent</l>
+               <l>Abſalon taketh, but all is diſcoured:</l>
+               <l>Wherfor for fear, ſtraight to hange himſelf went.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:90"/>
+            <head>II. REGVM XVIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Abſalon is for his wickednes paied:</l>
+               <l>For god permitteth, willing nomor forbeare,</l>
+               <l>That be the heares hanged remaining ſtaied,</l>
+               <l>Ioab cauſeth him die, with ſtrockes of ſpeare.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:91"/>
+            <head>II. REGVM XX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ioab befor the ſtronge towne of Abele,</l>
+               <l>The dwellers in did ſomme, and warne them laſt,</l>
+               <l>To ielde to him Siba falſe, and rebell:</l>
+               <l>Whoſe hed anon, to them in he did caſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:91"/>
+            <head>III. REGVM II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Salomon knoweth Ioab vnfaithfullnes:</l>
+               <l>Wherfor angrie, with his mouth doeth comande,</l>
+               <l>To death bitter to be put, with cruelnes,</l>
+               <l>Allthought touching goddis altar doeth ſtande,</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:92"/>
+            <head>III. REGVM X.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The quene cometh frome Saba, for to heare</l>
+               <l>Salomon kinge, and his diuin conning:</l>
+               <l>Wiche being hard, wonderfull did apeare:</l>
+               <l>Preſentes therfor riche mad, him fauouring.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:92"/>
+            <head>III. REGVM XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Obeiſsing man, mor then his god aboue,</l>
+               <l>Fed his bodie a prophete in Bethel:</l>
+               <l>But in the waie, when thence he did remoue,</l>
+               <l>Was put to death, with a wilde beaſt cruell.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:93"/>
+            <head>III. REGVM XVI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Therſe being rond about beſieged,</l>
+               <l>Zambri maing not no wiſe awai tourne,</l>
+               <l>Durſt aſſaut none ſuffer, ſor affliged:</l>
+               <l>Wherfor himſelf in his palaice doeth burne.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:93"/>
+            <head>III. REGVM XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>When on the earth, no rain god did releaſe,</l>
+               <l>In the torrent of Carith drancke Helie</l>
+               <l>With tow rauans, as to god it did pleaſe,</l>
+               <l>Were bread and win, to him brought faithfullie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:94"/>
+            <head>III. REGVM XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Praing his god Helie mad to reliue</l>
+               <l>Be diuin power the childe of his hoſteſſe:</l>
+               <l>Wiche beholding, her childe to be aliue,</l>
+               <l>A holie man him to be, did confeſſe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:94"/>
+            <head>III. REGVM XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>In wildernes Helie ſeeth an Aungell,</l>
+               <l>Water, and bread shewing him, in that whill:</l>
+               <l>Be whoſe vertue, after he hath eate well,</l>
+               <l>Cometh to the top of Oreb goddis hill.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:95"/>
+            <head>IIII. REGVM IIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Heliſe did the people pacifie,</l>
+               <l>When honger ſor did him vexe, and moleſte:</l>
+               <l>With litle bread did him ſo ſatisfie,</l>
+               <l>That encreaſing, therof had ſome of reſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:95"/>
+            <head>IIII. REGVM VI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Siriens brought Heliſe all blinded</l>
+               <l>Of god into Samarie, then hartleſſe:</l>
+               <l>Then do we ſe how god wolde, and minded</l>
+               <l>That left thei were go, together harmeleſſe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:96"/>
+            <head>IIII. REGVM IX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iehu ſeing Iezabel be kepth faſt</l>
+               <l>Within a towr, broken of her high minde,</l>
+               <l>Her bodie down cauſed thence to be caſt:</l>
+               <l>Wher deuoored was, of dogges, in her kinde.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:96"/>
+            <head>IIII. REGVM XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>To be buried is laied a man ſterke deade,</l>
+               <l>Within the tombe of Heliſe prophete:</l>
+               <l>Wiche as the bones he toucheth liſteth his heade,</l>
+               <l>And reliued, riſeth ſtraight on his feete.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:97"/>
+            <head>IIII. REGVM XVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Iſrael is kept faſt in Aſsirie:</l>
+               <l>But the wicked, wiche on god no truſt ſette.</l>
+               <l>On Iſrael holding all Samarie,</l>
+               <l>Ar put to death, with leons fiers, without lette.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:97"/>
+            <head>IIII. REGVM XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The Aſsiriens, thinking be their great deedes,</l>
+               <l>Hieruſalem to force, with mightie hande:</l>
+               <l>The Aungell did, being then at their ſides,</l>
+               <l>Slain a hundred, fiue and fiftie thouſande.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:98"/>
+            <head>IIII. REGVM XIX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Of the Hebreus the great perſecutour</l>
+               <l>Sennacherib, worshipping his Idole</l>
+               <l>Slain was, without other executour,</l>
+               <l>But his childerne, drawen into monopole.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:98"/>
+            <head>IIII. REGVM XX.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ezechias ſicke a bed in great ſmart,</l>
+               <l>Was be Eſaie warned of death ſo ſtronge:</l>
+               <l>Then he pràied god fearfull, with all his hart,</l>
+               <l>Wiche healed him, and his lif did prolonge.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:99"/>
+            <head>IIII. REGVM XXII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The holie law, in the boocke conſerued,</l>
+               <l>Red is befor Ioſias king of might,</l>
+               <l>Wiche willeth ſure, that it be obſerued:</l>
+               <l>So mindeth walke fautles in his goddes ſight.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:99"/>
+            <head>IIII. REGVM XXV.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>All wicked deedes are then awai tourned,</l>
+               <l>When Ioſias walketh in holines:</l>
+               <l>On the altars the falſe prieſtes are burned:</l>
+               <l>For what god hateth, he ſeeth with werines.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:100"/>
+            <head>TOBIAE I.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Keping Tobie priſonner men wicked,</l>
+               <l>Neuertheleſſe his god beareth in minde</l>
+               <l>So feruentlie, that in his hart ſticked,</l>
+               <l>Woorckes of mercie to shew of eurie kinde.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:100"/>
+            <head>TOBIAE VI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The childe Tobie holdeth faſt in his hande</l>
+               <l>This ſo great fiſshe, putting him in ſurtie:</l>
+               <l>Then him clenſing wiſelie he doeth demande</l>
+               <l>Of Raphael, his owne true propertie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:101"/>
+            <head>TOBIAE VIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Tobie putteth of the ſame fiſshe the gall</l>
+               <l>The colles vpon, and to god doeth truſt ſure:</l>
+               <l>Wherfor Sara to his wifletting fall,</l>
+               <l>Bond the Aungell, the enmie of nature.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:101"/>
+            <head>TOBIAE XI.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>His good father reioiſsing verie olde,</l>
+               <l>With a good zeale Tobie at his coming,</l>
+               <l>A will the gall on his eies he doeth holde</l>
+               <l>Of this his fiſshe, thence his ſight reſtoring.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:102"/>
+            <head>IVDITH XIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Holophernes with Iudith is in loue,</l>
+               <l>But she anon paied him for his follie:</l>
+               <l>For as he was droncke, that he colde not moue,</l>
+               <l>She killed him, deliuring Bethulie.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:102"/>
+            <head>HESTHER VII. &amp; VIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>With Aſſuere Heſter in fauour come,</l>
+               <l>Saued from death all the people Ie wiſshe:</l>
+               <l>Mad hange Aman, wicke wolde hange in his rome</l>
+               <l>Good Mardoche, moſt wicked and piuiſshe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:103"/>
+            <head>IOB II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Yet that Sathan with leaue and licencie</l>
+               <l>Of god ſtracke Iob, with extreme affliction:</l>
+               <l>Neuertheleſſe his manlie paciencie</l>
+               <l>Mad to apeere his diuin perfection.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:103"/>
+            <head>EZECH. XXXVII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ezechiel in the fildes diſioined</l>
+               <l>Saw bones manie, wiche as his minde did giue,</l>
+               <l>Were all anon eche to other ioined</l>
+               <l>With ſtronge ſinous, full of fleſshe, and of liue.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:104"/>
+            <head>DANIELIS III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The thre childerne woorshippe not the Idole:</l>
+               <l>Wherfor a liue ar thruſt in the fornace:</l>
+               <l>Down the Aungell cometh that doeth them conſole,</l>
+               <l>Harmeleſſe frome fire, keping them in that place.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:104"/>
+            <head>DANIELIS V.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Balthaſar ſeeth a hande and doeth beholde,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon a wall writting his mishappe:</l>
+               <l>For he drinking in the temples vaſes to bold,</l>
+               <l>To leeſe anon his kingdome doeth not ſcappe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:105"/>
+            <head>DANIELIS XIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>In Babilone worshipped the dragon,</l>
+               <l>Of Daniel is with meanes ſure mete withall:</l>
+               <l>For a morſell, wiche to deuoore is gon,</l>
+               <l>Casting to him, burſted, and dead did fall.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:105"/>
+            <head>DANIELIS XIIII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Frome the leons deane is Daniel ſaue brought out,</l>
+               <l>God permitting him receaue no outrage:</l>
+               <l>His enmies all in a ſore feare be put,</l>
+               <l>And in his ſted deuoured, with great rage.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:106"/>
+            <head>IONAE II.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Ionas thinking frome his God for to flie,</l>
+               <l>On ſea ſailling, ther came ſuche a tempeſt,</l>
+               <l>That the shippmen him did caſt in boldlie:</l>
+               <l>Wherfor anon the water was in reſt.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:106"/>
+            <head>IONAE II. &amp; III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Daies and nightes thre in her bodie the whall</l>
+               <l>Ionas did kepe, and then cooſt him to lande:</l>
+               <l>Where of his god heare did the voice to call,</l>
+               <l>Wiche him go preshe, to Niniue dit commande,</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:107"/>
+            <head>IONAE III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Criing Ionas that god willeth ſubuert</l>
+               <l>Niniue, then thei do penitencie make:</l>
+               <l>Kinges, and ſubiectes men ſe them to conuert,</l>
+               <l>To god mightie, wiche his vengeaunce kepeth backe.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:107"/>
+            <head>II. MACHAB. III.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Wonderfull is the heauie punition,</l>
+               <l>Wiche frome the skie cometh ſtricke Geliadore:</l>
+               <l>When the treaſure to robe taketh commiſsion</l>
+               <l>Wiche goddes temple doeth both deacke, and decore.</l>
+            </lg>
+         </div>
+         <div type="biblical_chapter">
+            <pb facs="tcp:23106:108"/>
+            <head>II. MACHAB. VII.</head>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Seuen bretherne ar put to death bitter,</l>
+               <l>Keping the law of god, with deuotion:</l>
+               <l>So is with them their godlie deare mother,</l>
+               <l>Wiche bringeth them, to the execution.</l>
+            </lg>
+            <pb facs="tcp:23106:108"/>
+         </div>
+      </body>
+   </text>
+</TEI>
